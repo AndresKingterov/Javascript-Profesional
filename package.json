@@ -1,0 +1,24 @@
+{
+  "name": "javascript-profesional",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Andres Quintero",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresKingterov/Javascript-Profesional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AndresKingterov/Javascript-Profesional/issues"
+  },
+  "homepage": "https://github.com/AndresKingterov/Javascript-Profesional#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
