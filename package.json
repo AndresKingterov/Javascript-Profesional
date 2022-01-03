@@ -20,5 +20,6 @@
   "homepage": "https://github.com/AndresKingterov/Javascript-Profesional#readme",
   "devDependencies": {
     "live-server": "^1.2.1"
-  }
+  },
+  "dependencies": {}
 }
